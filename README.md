@@ -15,7 +15,7 @@ Siga as instruções abaixo para executar localmente:
 #### Clone este repositório
 
 ```bash
-git clone https://github.com/seu-usuario/desafio-full-cycle-nginx-node.git
+git clone https://github.com/phillippimenta/desafio-full-cycle-nginx-node
 ```
 
 #### Acesse o diretório do projeto:Acesse o diretório do projeto
