@@ -4,7 +4,7 @@ Este é o repositório da resolução do Desafio do Curso Full Cycle 3.0 - Módu
 
 ## Descrição
 
-O desafio consiste em criar uma aplicação Node.js para ser acessada por meio de um servidor Nginx configurado como proxy reverso, no qual a aplicação deve retornar '<h1>Full Cycle Rocks!</h1>' e uma lista de nomes, com a adição de um novo registro aleatoriamente a cada acesso.
+O desafio consiste em criar uma aplicação Node.js para ser acessada por meio de um servidor Nginx configurado como proxy reverso, no qual a aplicação deve retornar Full Cycle Rocks!' e uma lista de nomes, com a adição de um novo registro aleatoriamente a cada acesso.
 
 ## Instruções de Uso
 
@@ -30,5 +30,5 @@ cd desafio-full-cycle-nginx-node
 docker-compose up -d
 ```
 
-#### Abra seu navegador e acesse http://localhost:8080. Você deve ver a mensagem "<h1>Full Cycle Rocks!</h1>" com a lista de nomes cadastrada no banco de dados.
+#### Abra seu navegador e acesse http://localhost:8080. Você deve ver a mensagem "Full Cycle Rocks!" com a lista de nomes cadastrada no banco de dados.
 ```
